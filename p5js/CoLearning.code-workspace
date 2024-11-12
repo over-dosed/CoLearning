@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../poseliving"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CoLearning",
+		"liveServer.settings.port": 8082
+	}
+}
